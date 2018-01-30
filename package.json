@@ -1,6 +1,6 @@
 {
   "name": "node-zip-archiver",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a streaming interface for archive generation",
   "main": "index.js",
   "scripts": {
